@@ -1,4 +1,4 @@
-# Customer Shell
+# Custom Shell
 
 This project is a custom shell I made that implements builtin commands and allows users to create lists of commands. 
 
